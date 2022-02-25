@@ -17,3 +17,9 @@ C:\Users\Montassar\source\repos\Test\Back.UnitTest\obj\Debug\netcoreapp2.1\Back.
 C:\Users\Montassar\source\repos\Test\Back.UnitTest\bin\Debug\netcoreapp2.1\Back.UnitTest.pdb
 C:\Users\Montassar\source\repos\Test\Back.UnitTest\obj\Debug\netcoreapp2.1\Back.UnitTest.dll
 C:\Users\Montassar\source\repos\Test\Back.UnitTest\obj\Debug\netcoreapp2.1\Back.UnitTest.pdb
+C:\Users\Montassar\OneDrive\Documents\Sources\TestTechnique\Back.UnitTest\obj\Debug\netcoreapp2.1\Back.UnitTest.csprojAssemblyReference.cache
+C:\Users\Montassar\OneDrive\Documents\Sources\TestTechnique\Back.UnitTest\obj\Debug\netcoreapp2.1\Back.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Montassar\OneDrive\Documents\Sources\TestTechnique\Back.UnitTest\obj\Debug\netcoreapp2.1\Back.UnitTest.AssemblyInfoInputs.cache
+C:\Users\Montassar\OneDrive\Documents\Sources\TestTechnique\Back.UnitTest\obj\Debug\netcoreapp2.1\Back.UnitTest.AssemblyInfo.cs
+C:\Users\Montassar\OneDrive\Documents\Sources\TestTechnique\Back.UnitTest\obj\Debug\netcoreapp2.1\Back.UnitTest.dll
+C:\Users\Montassar\OneDrive\Documents\Sources\TestTechnique\Back.UnitTest\obj\Debug\netcoreapp2.1\Back.UnitTest.pdb

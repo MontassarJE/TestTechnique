@@ -11815,11 +11815,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Montassar\\source\\repos\\Test\\front\\front.csproj",
+      "projectUniqueName": "C:\\Users\\Montassar\\OneDrive\\Documents\\Sources\\TestTechnique\\front\\front.csproj",
       "projectName": "front",
-      "projectPath": "C:\\Users\\Montassar\\source\\repos\\Test\\front\\front.csproj",
+      "projectPath": "C:\\Users\\Montassar\\OneDrive\\Documents\\Sources\\TestTechnique\\front\\front.csproj",
       "packagesPath": "C:\\Users\\Montassar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Montassar\\source\\repos\\Test\\front\\obj\\",
+      "outputPath": "C:\\Users\\Montassar\\OneDrive\\Documents\\Sources\\TestTechnique\\front\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
